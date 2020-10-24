@@ -195,7 +195,7 @@ body{
 
 /*ファーストメッセージ*/
 .first-message{
-    background-image: url(https://github.com/umedahiroki/github.io/blob/main/free.jpg?raw=true);
+    background-image: url("https://github.com/umedahiroki/github.io/blob/main/free.jpg?raw=true");
     background-size: cover;
     padding: 50px;
     display: flex;
