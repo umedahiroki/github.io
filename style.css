@@ -192,10 +192,9 @@ body{
     transition: all 0.5s;
 }
 
-
 /*ファーストメッセージ*/
 .first-message{
-    background-image: url("https://github.com/umedahiroki/github.io/blob/main/free.jpg?raw=true");
+    background-image: url(images/free.jpg);
     background-size: cover;
     padding: 50px;
     display: flex;
@@ -303,7 +302,7 @@ body{
 
 .forth-message{
     width: 100%;
-    height: 800px;
+    height: 700px;
 }
 
 .forth-top{
@@ -422,11 +421,104 @@ body{
     border-radius: 30px;
 }
 
+/*ファイブメッセージ*/
+.five-message{
+    margin-top: 50px;
+    width: 100%;
+    height: 800px;
+    background-color:#f5f5f5 ;
+}
+
+.five-top{
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.top-columm{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.top-title{
+    font-size: 26px;
+    font-weight: bold;
+    color: #2595C7;
+}
+
+.title-sub{
+    color: #c8c8c8;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.keyword{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.hash1{
+    display: flex;
+    align-items: center;
+    background: #FFFFFF;
+    color: #898989;
+    height: 27px;
+    font-size: 12px;
+    line-height: 12px;
+    border-radius: 22px;
+    padding: 2px 12px;
+    margin-right: 10px;
+}
+
+.message-column{
+    width: 100%;
+    padding-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.sub-message{
+    width: 640px;
+    border-bottom:1px solid #c8c8c8;
+    border-top:1px solid #c8c8c8;
+    padding: 10px 0 10px 0;
+}
+
+.top-category{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.colum-thema{
+    background:#2595C7 ;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 2px 8px;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.column-time{
+    font-size: 16px;
+    color: #898989;
+}
+
+
+
 /*フッター*/
 .footer{
     width: 100%;
     height:500px ;
     background-color: #2595C7;
+    margin-top: 50px;
 }
 
 .footer-icon{
