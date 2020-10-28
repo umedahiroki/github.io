@@ -1,7 +1,7 @@
 ## ●作品紹介
 [公開ページ](https://umedahiroki.github.io/github.io/)
 
-■ 作品画像
+■ 作品画像  
 ■ 作品タイトル
 * 作品の概要説明
 * 作品の見所
