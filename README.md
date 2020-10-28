@@ -1,6 +1,6 @@
 # 作品紹介
 ### ■ 作品画像
-<img src="https://i.gyazo.com/828a27a305de615a36a5d9bea0980643.png" width="600">
+<img src="https://i.gyazo.com/828a27a305de615a36a5d9bea0980643.png" width="600"><br>
 [公開ページへ行く](https://umedahiroki.github.io/github.io/) 
  
 ### ■ 作品の概要説明  
