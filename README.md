@@ -1,9 +1,10 @@
-# 作品紹介<br>
-■ 作品画像<br>
+# 作品紹介
+## 作品画像
+<img src="https://i.gyazo.com/828a27a305de615a36a5d9bea0980643.png" width="600">
 ■ 架空の企業ホームページ<br>
    [公開ページへ行く](https://umedahiroki.github.io/github.io/)<br> 
 <br> 
-■ 作品の概要説明<br>
+## 作品の概要説明
    架空の人事系のコンサルティング会社のホームページを作成しました。<br>
 <br>
 ■ 作品の見所  
