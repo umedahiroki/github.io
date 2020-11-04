@@ -1,0 +1,24 @@
+@media (max-width:900px){
+    .header-left{
+        padding-left: 20px;
+    }
+    
+    .icon-sample{
+        display:block;
+    }
+    .menu{
+        padding-right:20px;
+    }
+    .menu-line{
+        display:none;
+    }
+}
+
+@media (max-width:670px){
+    .icon-sample{
+        display:block;
+    }
+    .menu-line{
+        display:none;
+    }
+}
